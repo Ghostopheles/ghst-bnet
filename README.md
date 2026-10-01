@@ -4,17 +4,6 @@ An async Python client for the [Battle.net web APIs](https://community.developer
 
 Written by a real human.
 
-## Installation
-
-First, install the package using your preferred flavor of witchcraft. I prefer [uv](https://docs.astral.sh/uv/).
-```
-uv add git+github.com/Ghostopheles/ghst-bnet
-```
-or
-```
-pip install git+github.com/Ghostopheles/ghst-bnet
-```
-
 ## Usage
 
 Usage is pretty simple, so I'll just give you a short code snippet.
