@@ -44,6 +44,17 @@ if __name__ == "__main__":
 >[!NOTE]
 >All of the game data resources/models need to be added manually, so I only added those that were most relevant to me. There's a lot of endpoints missing still - I'll get to them eventually.
 
+Currently supports:
+- Achievements
+- Titles
+- Items
+- Mounts
+- Quests
+- Quest categories
+- Quest areas
+- Quest types
+- Realms
+
 ## Notes
 
 If you're reading this - made you look.
